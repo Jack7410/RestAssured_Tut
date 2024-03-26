@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-26T14:02:59 IST" name="Suite" finished-at="2024-03-26T14:03:16 IST" duration-ms="16924">
+    <groups>
+    </groups>
+    <test started-at="2024-03-26T14:02:59 IST" name="Test" finished-at="2024-03-26T14:03:16 IST" duration-ms="16924">
+      <class name="api.TestCases.DataDrivenTest">
+        <test-method signature="get_Users(java.lang.String)[pri:2, instance:api.TestCases.DataDrivenTest@5d0a1059]" started-at="2024-03-26T14:03:00 IST" name="get_Users" data-provider="UserName" finished-at="2024-03-26T14:03:02 IST" duration-ms="2559" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UserName]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Users -->
+        <test-method signature="get_Users(java.lang.String)[pri:2, instance:api.TestCases.DataDrivenTest@5d0a1059]" started-at="2024-03-26T14:03:02 IST" name="get_Users" data-provider="UserName" finished-at="2024-03-26T14:03:04 IST" duration-ms="1378" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jack.W]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Users -->
+        <test-method signature="get_Users(java.lang.String)[pri:2, instance:api.TestCases.DataDrivenTest@5d0a1059]" started-at="2024-03-26T14:03:04 IST" name="get_Users" data-provider="UserName" finished-at="2024-03-26T14:03:05 IST" duration-ms="1403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Smith.M]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Users -->
+        <test-method signature="get_Users(java.lang.String)[pri:2, instance:api.TestCases.DataDrivenTest@5d0a1059]" started-at="2024-03-26T14:03:05 IST" name="get_Users" data-provider="UserName" finished-at="2024-03-26T14:03:06 IST" duration-ms="1316" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Devid.D]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Users -->
+        <test-method signature="get_Users(java.lang.String)[pri:2, instance:api.TestCases.DataDrivenTest@5d0a1059]" started-at="2024-03-26T14:03:06 IST" name="get_Users" data-provider="UserName" finished-at="2024-03-26T14:03:08 IST" duration-ms="1347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sahara.Swan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Users -->
+        <test-method signature="get_Users(java.lang.String)[pri:2, instance:api.TestCases.DataDrivenTest@5d0a1059]" started-at="2024-03-26T14:03:08 IST" name="get_Users" data-provider="UserName" finished-at="2024-03-26T14:03:09 IST" duration-ms="1658" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mike.Tarly]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Users -->
+        <test-method signature="get_Users(java.lang.String)[pri:2, instance:api.TestCases.DataDrivenTest@5d0a1059]" started-at="2024-03-26T14:03:09 IST" name="get_Users" data-provider="UserName" finished-at="2024-03-26T14:03:11 IST" duration-ms="1835" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sam.Frey]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Users -->
+        <test-method signature="get_Users(java.lang.String)[pri:2, instance:api.TestCases.DataDrivenTest@5d0a1059]" started-at="2024-03-26T14:03:11 IST" name="get_Users" data-provider="UserName" finished-at="2024-03-26T14:03:13 IST" duration-ms="1644" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Will.T]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Users -->
+        <test-method signature="get_Users(java.lang.String)[pri:2, instance:api.TestCases.DataDrivenTest@5d0a1059]" started-at="2024-03-26T14:03:13 IST" name="get_Users" data-provider="UserName" finished-at="2024-03-26T14:03:14 IST" duration-ms="1479" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John.W]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Users -->
+        <test-method signature="get_Users(java.lang.String)[pri:2, instance:api.TestCases.DataDrivenTest@5d0a1059]" started-at="2024-03-26T14:03:14 IST" name="get_Users" data-provider="UserName" finished-at="2024-03-26T14:03:16 IST" duration-ms="1355" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mishell.m]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Users -->
+      </class> <!-- api.TestCases.DataDrivenTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
